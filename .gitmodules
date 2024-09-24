@@ -1,0 +1,3 @@
+[submodule "nothingissafe.net/themes/terminal"]
+	path = nothingissafe.net/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
